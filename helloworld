@@ -1,0 +1,9 @@
+package sushantjava1;
+
+public class javaScript1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+      System.out.println("Eclipse Tutorial on Sushant kumar singh Youtube Channel"); 
+       
+      System.out.println("Hi !");
